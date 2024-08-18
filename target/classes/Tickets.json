@@ -1,0 +1,50 @@
+{
+  "fast" : {
+    "14" : {
+      "Seat" : "SeatNo 4",
+      "Price" : 3,
+      "Duration" : 3,
+      "From" : "dsaf",
+      "To" : "dsaf",
+      "Departure Time" : "23:20:58",
+      "Trip Number" : 23,
+      "Date" : "24-05-2024",
+      "Ticket Type" : "sdaf"
+    },
+    "12" : {
+      "Seat" : "SeatNo 5",
+      "Price" : 23,
+      "Duration" : 3,
+      "From" : "deas",
+      "To" : "asdf",
+      "Departure Time" : "23:21:16",
+      "Trip Number" : 23,
+      "Date" : "30-05-2024",
+      "Ticket Type" : "adsf"
+    },
+    "34643" : {
+      "Seat" : "SeatNo 6",
+      "Price" : 23,
+      "Duration" : 3,
+      "From" : "asdfasf",
+      "To" : "sadfdasf",
+      "Departure Time" : "23:22:04",
+      "Trip Number" : 23,
+      "Date" : "24-05-2024",
+      "Ticket Type" : "dsaf"
+    }
+  },
+  "slow" : {
+    "12" : {
+      "Seat" : "SeatNo 7",
+      "Price" : 32,
+      "Duration" : 3,
+      "From" : "adsf",
+      "To" : "asdf",
+      "Departure Time" : "22:51:13",
+      "Trip Number" : 23,
+      "Date" : "10-05-2024",
+      "Ticket Type" : "asdf"
+    }
+  }
+}

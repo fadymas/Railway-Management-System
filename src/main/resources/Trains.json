@@ -1,0 +1,12 @@
+{
+  "2" : {
+    "TrainName" : "slow",
+    "Capacity" : 18,
+    "Seats" : [ "SeatNo 8", "SeatNo 9", "SeatNo 10", "SeatNo 12", "SeatNo 13", "SeatNo 14", "SeatNo 15", "SeatNo 16", "SeatNo 17", "SeatNo 18" ]
+  },
+  "5" : {
+    "TrainName" : "fast",
+    "Capacity" : 18,
+    "Seats" : [ "SeatNo 2", "SeatNo 3", "SeatNo 7", "SeatNo 8", "SeatNo 9", "SeatNo 10", "SeatNo 11", "SeatNo 12", "SeatNo 13", "SeatNo 14", "SeatNo 15", "SeatNo 16", "SeatNo 17", "SeatNo 18" ]
+  }
+}
