@@ -1348,11 +1348,11 @@ public class Main {
         panel.setOpaque(false);
         JPanel centerpanel = new JPanel();
         centerpanel.setLayout(null);
-        centerpanel.setBounds(300, 0, 1200, 1500);
+        centerpanel.setBounds(300, 0, 1200, 1200);
 
         JTable table = new JTable();
         JScrollPane scrollPane = new JScrollPane(table);
-        scrollPane.setBounds(0, 10, 1200, 800);
+        scrollPane.setBounds(0, 10, 1200, 650);
         centerpanel.add(scrollPane);
         table.setBounds(0, 10, 1200, 800);
         DefaultTableModel tableModel = new DefaultTableModel() {
@@ -1423,7 +1423,7 @@ public class Main {
         });
 
         JButton BookButton = new JButton("Book");
-        BookButton.setBounds(0, 820, 1200, 200);
+        BookButton.setBounds(0, 650, 1200, 200);
         centerpanel.add(BookButton);
         BookButton.addActionListener(e -> {
             Customer customer = new Customer();

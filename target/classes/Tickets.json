@@ -21,17 +21,6 @@
       "Trip Number" : 23,
       "Date" : "30-05-2024",
       "Ticket Type" : "adsf"
-    },
-    "34643" : {
-      "Seat" : "SeatNo 6",
-      "Price" : 23,
-      "Duration" : 3,
-      "From" : "asdfasf",
-      "To" : "sadfdasf",
-      "Departure Time" : "23:22:04",
-      "Trip Number" : 23,
-      "Date" : "24-05-2024",
-      "Ticket Type" : "dsaf"
     }
   },
   "slow" : {
