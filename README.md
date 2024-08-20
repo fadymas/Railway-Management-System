@@ -9,6 +9,8 @@ The Railway Management System is a comprehensive application designed to manage 
 - Ticket booking and cancellation
 - Admin and customer roles
 - Search functionality for trains and tickets
+
+## Examples
 ![Customer-Book-System](https://github.com/user-attachments/assets/1db1391f-e972-446f-ac3b-7702a9743168)
 ![Admin-Management-System](https://github.com/user-attachments/assets/2fdebd98-5196-41ac-bc9c-321d353c5edc)
 ![Admin-login](https://github.com/user-attachments/assets/191fdd45-e022-40e0-99ae-84ea06a2ff92)
